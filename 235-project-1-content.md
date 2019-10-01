@@ -44,3 +44,7 @@ VI. Gameplay <br> <br>
     The game will mostly require learning strategy. The player will have to learn where to look and what
     to look for based off previous levels.
     
+VII. Screenshots <br>
+
+![Clippy hidden in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy.png) <br>
+![Clippy hidden on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2.png)
