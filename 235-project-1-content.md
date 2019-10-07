@@ -46,7 +46,7 @@ VI. Gameplay <br> <br>
     
 VII. Screenshots <br>
 
-![Clippy hidden in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy.png) <br>
+![Clippy hidden in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy1.png) <br>
 ![Clippy hidden on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2.png <br>
 ![Clippy circled in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy1Found.png) <br>
 ![Clippy circled on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2Found.png)
