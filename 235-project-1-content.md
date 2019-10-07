@@ -47,4 +47,26 @@ VI. Gameplay <br> <br>
 VII. Screenshots <br>
 
 ![Clippy hidden in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy.png) <br>
-![Clippy hidden on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2.png)
+![Clippy hidden on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2.png <br>
+![Clippy circled in a Windows homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy1Found.png) <br>
+![Clippy circled on the Google homepage.](https://github.com/tcd2738/IGME-235/blob/master/Where'sClippy2Found.png)
+
+Documentation:
+
+I. Process <br>
+Started by creating content for game document and putting it on Git. Then I created a simple navigation bar and 
+page layout. I added in all my content and tinkered with it to make it look nice. Finally, I added flourishes
+accessibility bits.
+
+II. Tools Used <br>
+I used Gimp to make my image mockups. I also used the textbook to refresh myself on borders. For the few
+flexbox elements on my page, I used <a href = https://css-tricks.com/snippets/css/a-guide-to-flexbox>this</a> 
+handy website as a guide.
+
+III. Successes <br>
+I really liked how my design turned out. The colors are very appealing, and it looks sleek. I also think my content
+and idea is very cool while still being a manageable scope.
+
+IV. Future Improvements <br>
+I could probably work on implementing accessibility features early on instead of later. I could probably also work on
+how responsive my sites are.
