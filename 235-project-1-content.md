@@ -54,22 +54,26 @@ VII. Screenshots <br>
 Documentation:
 
 I. Process <br>
-Started by creating content for game document and putting it on Git. Then I created a simple navigation bar and 
-page layout. I added in all my content and tinkered with it to make it look nice. Finally, I added flourishes and
-accessibility bits.
+Started by creating content for game document and putting it on Git. From there, I used the project 
+description to decide how I wanted my site set up (what pages to have and what was on each).Then I
+created a simple navigation bar and page layout. I added in all my content and tinkered with the 
+CSS to make it look nice. Finally, I added flourishes and accessibility bits.
 
 II. Tools Used <br>
 I used <a href = "https://www.gimp.org/">Gimp</a> to make my image mockups. I also used the <a href = 
 "https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript-ebook-dp-B07DQ5RZJV/dp/B07DQ5RZJV/ref
 =mt_kindle?_encoding=UTF8&me=&qid=1525359716">textbook</a> to refresh myself on various topics we've 
 already covered. For the few flexbox elements on my page, I used 
-<a href = https://css-tricks.com/snippets/css/a-guide-to-flexbox>this</a> handy website as a guide.</p>
+<a href = https://css-tricks.com/snippets/css/a-guide-to-flexbox>this</a> handy website as a guide.
+Got stumped while trying to center my gameplay element list, used
+<a href = "https://stackoverflow.com/questions/8622498/list-displaying-slightly-off-centered">this</a>
+thread as a guide.
 
 III. Successes <br>
 I really liked how my design turned out. The colors are very appealing, and it looks sleek. I also think my content
 and idea is very cool while still being a manageable scope.
 
 IV. Future Improvements <br>
-I could probably work on implementing accessibility features early on instead of later. I could probably also work on
-how responsive my sites are. I had trouble with getting my unordered list to look like my normal paragraph elements
-specifically.
+I could probably work on implementing accessibility features earlier on instead of later. I could probably also work on
+how responsive my sites are (using vh is very nice, but it doesn't work very well once the site gets small enough). 
+I specifically had trouble with getting my unordered list to look like my normal paragraph elements.
